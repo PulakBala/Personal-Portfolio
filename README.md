@@ -5,7 +5,7 @@
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-<a href="https://personal-portfolio-theta-mauve.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://personal-portfolio-git-main-pulakbalas-projects.vercel.app/portfolio"><strong>➥ Live Demo</strong></a>
 
 </div>
 
