@@ -28,7 +28,7 @@ const portfolio = [
     id: 0,
     projectName: "360GRAM",
     url: "https://360gram.netlify.app/",
-    image: "projects/360gram.png",
+    image: "projects/360GRAM.png",
     projectDetail:
       "The digital marketing agency website offers comprehensive strategies to elevate your brand's online presence. It provides tailored solutions in SEO, social media, and content marketing to drive growth and engagement.",
     technologiesUsed: [
